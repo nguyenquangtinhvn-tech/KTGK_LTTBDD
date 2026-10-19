@@ -1,0 +1,6 @@
+
+# Local MCP configuration and secrets
+.vscode/mcp.json
+
+# Large source archive
+backend/10.2.0/aspnet-core/src.zip
